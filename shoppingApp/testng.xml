@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="assignment001.TestCase001"/>
+      <class name="assignment001.TestCase023"/>
+      <class name="assignment001.TestCase022"/>
+      <class name="assignment001.TestCase021"/>
+      <class name="assignment001.TestCase020"/>
+      <class name="assignment001.TestCase005"/>
+      <class name="assignment001.TestCase027"/>
+      <class name="assignment001.TestCase004"/>
+      <class name="assignment001.TestCase026"/>
+      <class name="assignment001.TestCase003"/>
+      <class name="assignment001.TestCase025"/>
+      <class name="assignment001.TestCase002"/>
+      <class name="assignment001.TestCase024"/>
+      <class name="assignment001.TestCase009"/>
+      <class name="assignment001.TestCase008"/>
+      <class name="assignment001.TestCase007"/>
+      <class name="assignment001.TestCase029"/>
+      <class name="assignment001.TestCase006"/>
+      <class name="assignment001.TestCase028"/>
+      <class name="assignment001.TestCase012"/>
+      <class name="assignment001.TestCase011"/>
+      <class name="assignment001.TestCase010"/>
+      <class name="assignment001.TestCase016"/>
+      <class name="assignment001.TestCase015"/>
+      <class name="assignment001.TestCase014"/>
+      <class name="assignment001.TestCase013"/>
+      <class name="assignment001.TestCase019"/>
+      <class name="assignment001.TestCase018"/>
+      <class name="assignment001.TestCase017"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
